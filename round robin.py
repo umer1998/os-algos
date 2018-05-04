@@ -1,3 +1,4 @@
+#not complete 
 b = int(input("enter number of process >>>"))
 aa=[]
 l1=[]
